@@ -1,6 +1,6 @@
 
 <h1 align="center"> Alarma Láser </h1>
-<p align="center"><img src="https://espolec-my.sharepoint.com/:i:/g/personal/phycom_espol_edu_ec/EVgVxADIvWxEhO33tF--fDABzIPueggUxAkOwG3Gz7cKBA?e=5nZUmB"/></p> 
+<p align="center"><img src="/imagenes/portada.png"/></p> 
 
 
 ## Descripcion  📋
@@ -72,8 +72,9 @@ No olvidar decirle a su mentor que ya fue subido el video para que el Dep.Proyec
 
 A continuación, se muestran algunas imágenes del proyecto:
 
-![Imagen 1](url_de_la_imagen_1.png)
-![Imagen 2](url_de_la_imagen_2.png)
+![Imagen 1](/imagenes/pieza1.jpg)
+![Imagen 2](/imagenes/pieza2.jpg)
+![Imagen 3](/imagenes/uso.jpg)
 
 ## Informacion-adicional ✒️
 ---
