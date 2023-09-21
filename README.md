@@ -5,20 +5,19 @@
 ## Tabla de contenidos:
 ---
 
-- [Descripción](#Descripción)
-- [Pre-requisitos](#Pre-requisitos)
-- [Materiales](#Materiales)
-- [Total Estimado](#Total-Estimado)
-- [Esquemas](#Esquemas)
-- [Instalación y Link de simulación](#Instalación-y-Link-de-simulación)
-- [Autores](#Autores)
-- [Video Demostrativo](#Video-Demostrativo)
-- [Imágenes](#Imágenes)
-- [Autor/es](#autores)
-- [Información adicional](#información-adicional)
-- [Información adicional](#Información-adicional)
+- [DESCRIPCION](#DESCRIPCION)
+- [PRE-REQUISITOS](#PRE_REQUISITOS)
+- [MATERIALES](#MATERIALES)
+- [TOTAL-ESTIMADO](#TOTAL_ESTIMADO)
+- [ESQUEMAS](#ESQUEMAS)
+- [INSTALACION_Y_SIMULACION](#INSTALACION_Y_SIMULACION)
+- [AUTORES](#AUTORES)
+- [VIDEO_DEMOSTRATIVO](#VIDEO_DEMOSTRATIVO)
+- [IMAGENES](#IMAGENES)
+- [AUTORES](#AUTORES)
+- [INFORMACION_ADICIONAL](#INFORMACION_ADICIONAL)
 
-## Descripción 📋
+## DESCRIPCION 📋
 ---
 El proyecto "Alarma Laser" es una innovadora implementación de seguridad que utiliza la tecnología láser y photoresistores para detectar intrusiones o interrupciones no deseadas en un área específica. Este sistema consta de 7 emisores de láser y 7 photoresistores dispuestos estratégicamente en el espacio que se desea proteger.
 
@@ -34,7 +33,11 @@ La forma en que funciona este sistema es la siguiente:
 
 Este sistema de alarma láser puede ser utilizado en una variedad de aplicaciones, como la seguridad de viviendas, la protección de áreas comerciales, la seguridad perimetral en instalaciones industriales, entre otros. Es una solución efectiva y moderna para la detección temprana de intrusiones y la activación de sistemas de seguridad en tiempo real.
 
-### Materiales 📦
+## PRE_REQUISITOS 📋
+
+Para hacer funcionar el proyecto es necesario tener instalado el ARDUINO IDE, no es necesario ninguna librería.
+
+## MATERIALES 📦
 
 A continuación se muestra una lista de los materiales requeridos, junto con la cantidad y el precio de cada uno:
 
@@ -47,35 +50,31 @@ A continuación se muestra una lista de los materiales requeridos, junto con la 
 
 
 
-## Total Estimado 💰
+## TOTAL_ESTIMADO 💰
 
 El costo total estimado del proyecto se calcula sumando los precios de todos los materiales:
 
 Total Estimado: $55 USD 💲
 
-### Pre-requisitos 📋
-
-Para hacer funcionar el proyecto es necesario tener instalado el ARDUINO IDE, no es necesario ninguna librería.
 
 
-### Esquemas 📊
+## ESQUEMAS 📊
 
 No hay esquemas del proyecto
 
-### Instalación y Link de simulación 🔧
+## INSTALACION_Y_SIMULACION 🔧
 
 El proyecto no fue simulado, netamente fue realizado en físico
 
 
 
-## Autores ✒️
+## AUTORES ✒️
 
 
 * **Darinka Townsend** - *Estructura y programación* - [DarinkaTownsend](https://github.com/DarinkaTownsend)
 * **Euro Criollo** - *Estructura* - [eucrpinc](https://github.com/eucrpinc)
 
-
-## Video Demostrativo
+## VIDEO_DEMOSTRATIVO 🎥
 <!-- "Deben subir un video del funcionamiento a esta carpeta con el nombre de su proyecto:
 
 https://espolec-my.sharepoint.com/:f:/g/personal/phycom_espol_edu_ec/Ev_QF9sXrLdOnNa4bQGy1gUBHgFZhHeYxoOzzLBM-buHsg?e=SjMYeL
@@ -84,14 +83,15 @@ No olvidar decirle a su mentor que ya fue subido el video para que el Dep.Proyec
 "-->
 🎥 Puedes encontrar un video demostrativo de este proyecto en [este enlace](url_del_video).
 
-## Imágenes
+## IMAGENES 📊
+
 
 A continuación, se muestran algunas imágenes del proyecto:
 
 ![Imagen 1](url_de_la_imagen_1.png)
 ![Imagen 2](url_de_la_imagen_2.png)
 
-## Información adicional
+## INFORMACION_ADICIONAL ✒️
 ---
 El proyecto fue presentado en el evento CLubes Ready Set Join 2023 llamado Mistery Factory
->>>>>>> Stashed changes
+
