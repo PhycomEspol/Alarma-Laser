@@ -1,6 +1,6 @@
 
 <h1 align="center"> Alarma Láser </h1>
-<p align="center"><img src="https://www.webdevelopersnotes.com/wp-content/uploads/create-a-simple-home-page.png"/></p> 
+<p align="center"><img src="https://espolec-my.sharepoint.com/:i:/g/personal/phycom_espol_edu_ec/EVgVxADIvWxEhO33tF--fDABzIPueggUxAkOwG3Gz7cKBA?e=5nZUmB"/></p> 
 
 
 ## Descripcion  📋
