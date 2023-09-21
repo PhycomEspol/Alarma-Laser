@@ -2,21 +2,8 @@
 <h1 align="center"> Alarma Láser </h1>
 <p align="center"><img src="https://www.webdevelopersnotes.com/wp-content/uploads/create-a-simple-home-page.png"/></p> 
 
-## Tabla de contenidos:
----
 
-- [Descripcion](#Descripcion)
-- [Pre-requisitos](#Pre-requisitos)
-- [Materiales](#Materiales)
-- [Total-estimado](#Total-estimado)
-- [Esquemas](#Esquemas)
-- [Instalacion-y-simulacion](#Instalacion-y-simulacion)
-- [Autores](#Autores)
-- [Video-demostrativo](#Video-demostrativo)
-- [Imagenes](#Imagenes)
-- [Informacion-adicional](#Informacion-adicional)
-
-## Descripcion  
+## Descripcion  📋
 ---
 El proyecto "Alarma Laser" es una innovadora implementación de seguridad que utiliza la tecnología láser y photoresistores para detectar intrusiones o interrupciones no deseadas en un área específica. Este sistema consta de 7 emisores de láser y 7 photoresistores dispuestos estratégicamente en el espacio que se desea proteger.
 
@@ -32,11 +19,11 @@ La forma en que funciona este sistema es la siguiente:
 
 Este sistema de alarma láser puede ser utilizado en una variedad de aplicaciones, como la seguridad de viviendas, la protección de áreas comerciales, la seguridad perimetral en instalaciones industriales, entre otros. Es una solución efectiva y moderna para la detección temprana de intrusiones y la activación de sistemas de seguridad en tiempo real.
 
-## Pre-requisitos  
+## Pre-requisitos  📋
 
 Para hacer funcionar el proyecto es necesario tener instalado el ARDUINO IDE, no es necesario ninguna librería.
 
-## Materiales  
+## Materiales  📦
 
 A continuación se muestra una lista de los materiales requeridos, junto con la cantidad y el precio de cada uno:
 
@@ -49,7 +36,7 @@ A continuación se muestra una lista de los materiales requeridos, junto con la 
 
 
 
-## Total-estimado  
+## Total-estimado  💰
 
 El costo total estimado del proyecto se calcula sumando los precios de todos los materiales:
 
@@ -57,21 +44,21 @@ Total Estimado: $55 USD  💲
 
 
 
-## Esquemas 
+## Esquemas 📊
 
 No hay esquemas del proyecto
 
-## Instalacion-y-simulacion  
+## Instalacion-y-simulacion  🔧
 
 El proyecto no fue simulado, netamente fue realizado en físico
 
-## Autores 
+## Autores ✒️
 
 
 * **Darinka Townsend** - *Estructura y programación* - [DarinkaTownsend](https://github.com/DarinkaTownsend)
 * **Euro Criollo** - *Estructura* - [eucrpinc](https://github.com/eucrpinc)
 
-## Video-demostrativo 
+## Video-demostrativo 🎥
 <!-- "Deben subir un video del funcionamiento a esta carpeta con el nombre de su proyecto:
 
 https://espolec-my.sharepoint.com/:f:/g/personal/phycom_espol_edu_ec/Ev_QF9sXrLdOnNa4bQGy1gUBHgFZhHeYxoOzzLBM-buHsg?e=SjMYeL
@@ -80,7 +67,7 @@ No olvidar decirle a su mentor que ya fue subido el video para que el Dep.Proyec
 "-->
 🎥 Puedes encontrar un video demostrativo de este proyecto en [este enlace](url_del_video).
 
-## Imagenes 
+## Imagenes 📊
 
 
 A continuación, se muestran algunas imágenes del proyecto:
@@ -88,7 +75,7 @@ A continuación, se muestran algunas imágenes del proyecto:
 ![Imagen 1](url_de_la_imagen_1.png)
 ![Imagen 2](url_de_la_imagen_2.png)
 
-## Informacion-adicional 
+## Informacion-adicional ✒️
 ---
 El proyecto fue presentado en el evento CLubes Ready Set Join 2023 llamado Mistery Factory
 
