@@ -5,7 +5,7 @@
 ## Tabla de contenidos:
 ---
 
-- [DESCRIPCION](#DESCRIPCION)
+- [DESCRIPCION](#DESCRIPCION 📋)
 - [PRE-REQUISITOS](#PRE_REQUISITOS)
 - [MATERIALES](#MATERIALES)
 - [TOTAL-ESTIMADO](#TOTAL_ESTIMADO)
@@ -17,7 +17,7 @@
 - [AUTORES](#AUTORES)
 - [INFORMACION_ADICIONAL](#INFORMACION_ADICIONAL)
 
-## DESCRIPCION 📋
+## DESCRIPCION  📋
 ---
 El proyecto "Alarma Laser" es una innovadora implementación de seguridad que utiliza la tecnología láser y photoresistores para detectar intrusiones o interrupciones no deseadas en un área específica. Este sistema consta de 7 emisores de láser y 7 photoresistores dispuestos estratégicamente en el espacio que se desea proteger.
 
@@ -33,11 +33,11 @@ La forma en que funciona este sistema es la siguiente:
 
 Este sistema de alarma láser puede ser utilizado en una variedad de aplicaciones, como la seguridad de viviendas, la protección de áreas comerciales, la seguridad perimetral en instalaciones industriales, entre otros. Es una solución efectiva y moderna para la detección temprana de intrusiones y la activación de sistemas de seguridad en tiempo real.
 
-## PRE_REQUISITOS 📋
+## PRE_REQUISITOS  📋
 
 Para hacer funcionar el proyecto es necesario tener instalado el ARDUINO IDE, no es necesario ninguna librería.
 
-## MATERIALES 📦
+## MATERIALES  📦
 
 A continuación se muestra una lista de los materiales requeridos, junto con la cantidad y el precio de cada uno:
 
@@ -50,23 +50,21 @@ A continuación se muestra una lista de los materiales requeridos, junto con la 
 
 
 
-## TOTAL_ESTIMADO 💰
+## TOTAL_ESTIMADO  💰
 
 El costo total estimado del proyecto se calcula sumando los precios de todos los materiales:
 
-Total Estimado: $55 USD 💲
+Total Estimado: $55 USD  💲
 
 
 
-## ESQUEMAS 📊
+## ESQUEMAS  📊
 
 No hay esquemas del proyecto
 
-## INSTALACION_Y_SIMULACION 🔧
+## INSTALACION_Y_SIMULACION  🔧
 
 El proyecto no fue simulado, netamente fue realizado en físico
-
-
 
 ## AUTORES ✒️
 
