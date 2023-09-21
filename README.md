@@ -65,7 +65,7 @@ https://espolec-my.sharepoint.com/:f:/g/personal/phycom_espol_edu_ec/Ev_QF9sXrLd
 
 No olvidar decirle a su mentor que ya fue subido el video para que el Dep.Proyectos pueda agregar el link en esta sección
 "-->
-🎥 Puedes encontrar un video demostrativo de este proyecto en [este enlace](url_del_video).
+🎥 Puedes encontrar un video demostrativo de este proyecto en [este enlace](https://www.tiktok.com/@phycom_espol/video/7281358793605188869?is_from_webapp=1&sender_device=pc&web_id=7278877245039642117).
 
 ## Imagenes 📊
 
