@@ -1,11 +1,3 @@
-<<<<<<< Updated upstream
-# Alarma Laser
-Juego de Alarmas laser con movimiento
-Autores:
-Darinka Townsend
-Euro Criollo
-=======
-
 
 <h1 align="center"> Alarma Láser </h1>
 <p align="center"><img src="https://www.webdevelopersnotes.com/wp-content/uploads/create-a-simple-home-page.png"/></p> 
